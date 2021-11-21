@@ -15,13 +15,13 @@
 
   - [x] Cadastro de Herois
   - [x] Listagem de Herois
-  - [×] Apagar um Heroi
+  - [ ] Apagar um Heroi
   - [ ] Actualizacao do Heroi
-  - [×] Listagem de Heroi por Id
+  - [x] Listagem de Heroi por Id
 
 ## License
 
- - [×] MIT
+ - [x] MIT
  
 
 ## DEV
